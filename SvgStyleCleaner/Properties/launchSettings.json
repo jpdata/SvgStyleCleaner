@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SvgStyleCleaner": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\jpdat\\source\\repos\\jpdata\\javier_website\\javier_website\\assets\\images\\bg-mp-8.svg C:\\Users\\jpdat\\source\\repos\\jpdata\\javier_website\\javier_website\\assets\\images\\result.svg"
+    }
+  }
+}
