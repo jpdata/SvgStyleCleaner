@@ -1,5 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-using ExCSS;
+﻿using ExCSS;
 using System.Xml.Linq;
 
 if (args.Length != 2)

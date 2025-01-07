@@ -11,8 +11,4 @@
     <PackageReference Include="ExCSS" Version="4.3.0" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Properties\src\" />
-  </ItemGroup>
-
 </Project>
